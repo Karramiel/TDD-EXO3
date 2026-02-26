@@ -3,3 +3,10 @@ C:\Users\Administrateur\Exercices\Exo C#\TestTDD\Exo3TDD\obj\Debug\net10.0\Exo3T
 C:\Users\Administrateur\Exercices\Exo C#\TestTDD\Exo3TDD\obj\Debug\net10.0\Exo3TDD.AssemblyInfo.cs
 C:\Users\Administrateur\Exercices\Exo C#\TestTDD\Exo3TDD\obj\Debug\net10.0\Exo3TDD.csproj.CoreCompileInputs.cache
 C:\Users\Administrateur\Exercices\Exo C#\TestTDD\Exo3TDD\obj\Debug\net10.0\Exo3TDD.sourcelink.json
+C:\Users\Administrateur\Exercices\Exo C#\TestTDD\Exo3TDD\bin\Debug\net10.0\Exo3TDD.deps.json
+C:\Users\Administrateur\Exercices\Exo C#\TestTDD\Exo3TDD\bin\Debug\net10.0\Exo3TDD.dll
+C:\Users\Administrateur\Exercices\Exo C#\TestTDD\Exo3TDD\bin\Debug\net10.0\Exo3TDD.pdb
+C:\Users\Administrateur\Exercices\Exo C#\TestTDD\Exo3TDD\obj\Debug\net10.0\Exo3TDD.dll
+C:\Users\Administrateur\Exercices\Exo C#\TestTDD\Exo3TDD\obj\Debug\net10.0\refint\Exo3TDD.dll
+C:\Users\Administrateur\Exercices\Exo C#\TestTDD\Exo3TDD\obj\Debug\net10.0\Exo3TDD.pdb
+C:\Users\Administrateur\Exercices\Exo C#\TestTDD\Exo3TDD\obj\Debug\net10.0\ref\Exo3TDD.dll
