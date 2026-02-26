@@ -1,0 +1,10 @@
+C:\Users\Administrateur\Exercices\Exo C#\TestTDD\DemoBaseTDD.Tests\bin\Debug\net10.0\.msCoverageExtensionSourceRootsMapping_DemoBaseTDD.Tests
+C:\Users\Administrateur\Exercices\Exo C#\TestTDD\DemoBaseTDD.Tests\bin\Debug\net10.0\.msCoverageSourceRootsMapping_DemoBaseTDD.Tests
+C:\Users\Administrateur\Exercices\Exo C#\TestTDD\DemoBaseTDD.Tests\obj\Debug\net10.0\DemoBaseTDD.Tests.csproj.AssemblyReference.cache
+C:\Users\Administrateur\Exercices\Exo C#\TestTDD\DemoBaseTDD.Tests\obj\Debug\net10.0\DemoBaseTDD.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Exercices\Exo C#\TestTDD\DemoBaseTDD.Tests\obj\Debug\net10.0\DemoBaseTDD.Tests.gentestingplatformentrypointinputcache.cache
+C:\Users\Administrateur\Exercices\Exo C#\TestTDD\DemoBaseTDD.Tests\obj\Debug\net10.0\DemoBaseTDD.Tests.genautoregisteredextensionsinputcache.cache
+C:\Users\Administrateur\Exercices\Exo C#\TestTDD\DemoBaseTDD.Tests\obj\Debug\net10.0\DemoBaseTDD.Tests.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Exercices\Exo C#\TestTDD\DemoBaseTDD.Tests\obj\Debug\net10.0\DemoBaseTDD.Tests.AssemblyInfo.cs
+C:\Users\Administrateur\Exercices\Exo C#\TestTDD\DemoBaseTDD.Tests\obj\Debug\net10.0\DemoBaseTDD.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Exercices\Exo C#\TestTDD\DemoBaseTDD.Tests\obj\Debug\net10.0\DemoBaseTDD.Tests.sourcelink.json

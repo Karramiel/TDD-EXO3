@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Ajout Dependance/Ajout Dependance.csproj" />
+  <Project Path="DemoBaseTDD.Tests/DemoBaseTDD.Tests.csproj" />
+  <Project Path="Exo3TDD/Exo3TDD.csproj" Id="d5c7b148-a91f-471d-88cf-bfc13a9c99f3" />
+</Solution>
